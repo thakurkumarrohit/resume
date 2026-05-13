@@ -1,5 +1,87 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+title: Your Name
+description: HVAC BIM Modeler | HVAC Design Engineer | Revit MEP Specialist
+baseurl: ""
+url: "https://yourusername.github.io"
+
+# Theme
+remote_theme: pages-themes/cayman@v0.2.0
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [YOUR NAME]
-description: [Turning Data into insights]
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Personal Information
+name: Your Name
+designation: HVAC BIM Modeler & Design Engineer
+
+email: yourmail@example.com
+phone: "+91-9876543210"
+
+location: Delhi, India
+
+linkedin_username: yourlinkedin
+github_username: yourusername
+
+# SEO
+author: Your Name
+lang: en
+timezone: Asia/Kolkata
+
+# Profile
+profile_image: assets/profile.jpg
+
+# Resume
+resume_file: assets/HVAC_Resume.pdf
+
+# Skills
+skills:
+  - Revit MEP
+  - AutoCAD
+  - Navisworks
+  - HVAC Design
+  - Duct Sizing
+  - Pipe Sizing
+  - Clash Detection
+  - BIM Coordination
+  - HAP
+  - ASHRAE Standards
+
+# Experience
+experience:
+  - company: ABC Engineering Consultants
+    role: HVAC BIM Modeler
+    duration: 2023 - Present
+
+  - company: XYZ MEP Solutions
+    role: HVAC Design Engineer
+    duration: 2021 - 2023
+
+# Certifications
+certifications:
+  - Autodesk Revit MEP
+  - Navisworks Manage
+  - HVAC Design & Drafting
+  - BIM Professional Certification
+
+# Featured Projects
+projects:
+  - name: Commercial Tower HVAC BIM
+    software: Revit MEP + Navisworks
+    description: |
+      Developed HVAC BIM model for a 25-floor commercial tower.
+      Performed clash detection and coordination.
+
+  - name: Hospital HVAC Design
+    software: HAP + AutoCAD
+    description: |
+      Designed chilled water and ventilation system
+      according to ASHRAE standards.
+
+  - name: Metro Station Ventilation
+    software: Revit + CFD
+    description: |
+      Smoke extraction and tunnel ventilation modeling.
+
+# Footer
+footer: "© 2026 Your Name | HVAC BIM Portfolio"
