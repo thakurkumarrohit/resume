@@ -50,21 +50,18 @@ _2017 – 2019_
 ## B.A. Programme (Arts)  
 **University of Delhi**  
 _2013 – 2016_  
-**Percentage:** 39.00%
 
 ---
 
 ## Senior Secondary (XII) – Arts  
 **NIOS**  
 _2013_  
-**Percentage:** 52.00%
 
 ---
 
 ## Secondary (X)  
 **Govt Senior Secondary School (CBSE)**  
 _2011_  
-**CGPA:** 7.00/10
 
 ---
 
