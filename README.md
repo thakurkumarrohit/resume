@@ -3,7 +3,7 @@
 📧 thakurkumarrohit@gmail.com  
 📞 +91 9560466142  
 📍 Delhi  
-🔗 linkedin.com/in/thakurkumarrohit
+[🔗 linkedin.com/in/thakurkumarrohit](https://www.linkedin.com/in/thakurkumarrohit)
 
 ---
 
